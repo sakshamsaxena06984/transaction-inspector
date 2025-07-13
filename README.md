@@ -67,7 +67,7 @@ Socket Stream (for simulation)
 
 
 ## 📂 Project Structure
-
+```
 bank/
 ├── Bank.java                        # Main Flink job
 ├── cards/
@@ -85,7 +85,7 @@ bank/
 │   └── ExcessiveTransactionMapper.java
 └── resources/
     └── config_prod.properties       # Property file for file paths and config
-
+```
 
 ##  How to Run
 1. Update config_prod.properties with correct file paths.
